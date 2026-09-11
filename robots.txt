@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jaswantsingh09.github.io/docs-1rgan6/sitemap.xml
